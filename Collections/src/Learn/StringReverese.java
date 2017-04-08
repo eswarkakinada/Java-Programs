@@ -18,8 +18,8 @@ public class StringReverese {
 		else
 			System.out.println("Not a Palindrome");
 	}
- 
-	 public static void main(String[]args){
-		 a();
-	 }
+
+	public static void main(String[] args) {
+		a();
+	}
 }
